@@ -1,0 +1,5 @@
+---
+image-name: A.jpg
+image-size: 640x426
+caption: Caption A
+---

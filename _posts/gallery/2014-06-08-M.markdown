@@ -1,0 +1,5 @@
+---
+image-size: 640x426
+caption: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt utvoluptatum eius sapiente, totam reiciendis temporibus quiquibusdam, recusandaesit vero unde, sed, incidunt et ea quo dolore laudantium consectetur Gulf of Aden Tropical Cyclone
+image-name: B.jpg
+---
